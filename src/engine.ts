@@ -27,7 +27,7 @@ export class Engine {
   this.states[i]=n.end===undefined?'done':'holding';
  }
  release(lane:Lane,time:number) {
-  this.update(time); this.down.delete(lane);
+  this.update(time); this.down.delete(lane); if(this.failed)return;
   this.notes.forEach((n,i)=>{if(n.lane===lane&&this.states[i]==='holding') {this.states[i]='done';this.award(time>=(n.end??0)-.090001?'HOLD':'BREAK',lane);}});
  }
  update(time:number) {

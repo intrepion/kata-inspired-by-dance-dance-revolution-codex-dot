@@ -1,0 +1,234 @@
+[
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 76,
+        "result": "42,000 points • 100.0% • 42 max combo\n38 Perfect / 0 Great / 0 Good / 0 Miss / 4 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 20 ms",
+          "PERFECT / 13 ms",
+          "HOLD",
+          "PERFECT / 7 ms",
+          "PERFECT / 12 ms",
+          "PERFECT / 1 ms",
+          "PERFECT / 11 ms",
+          "PERFECT / 10 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 4 ms",
+          "PERFECT / 3 ms",
+          "PERFECT / 14 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 112,
+        "result": "58,000 points • 96.7% • 55 max combo\n55 Perfect / 0 Great / 0 Good / 1 Miss / 3 Hold / 1 Break",
+        "signals": [
+          "PERFECT / 4 ms",
+          "BREAK",
+          "PERFECT / 13 ms",
+          "PERFECT / 8 ms",
+          "MISS",
+          "PERFECT / 17 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 11 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 10 ms",
+          "PERFECT / 15 ms",
+          "PERFECT / 14 ms",
+          "PERFECT / 19 ms",
+          "PERFECT / 2 ms",
+          "PERFECT / 12 ms",
+          "HOLD",
+          "PERFECT / 0 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 20 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 60,
+        "result": "30,000 points • 100.0% • 30 max combo\n30 Perfect / 0 Great / 0 Good / 0 Miss / 0 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 8 ms",
+          "PERFECT / 10 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 9 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 4 ms",
+          "PERFECT / 2 ms",
+          "PERFECT / 3 ms",
+          "PERFECT / 20 ms",
+          "PERFECT / 1 ms",
+          "PERFECT / 18 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 17 ms",
+          "PERFECT / 19 ms",
+          "PERFECT / 15 ms",
+          "PERFECT / 12 ms",
+          "PERFECT / 14 ms",
+          "PERFECT / 13 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 76,
+        "result": "42,000 points • 100.0% • 42 max combo\n38 Perfect / 0 Great / 0 Good / 0 Miss / 4 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 14 ms",
+          "PERFECT / 15 ms",
+          "HOLD",
+          "PERFECT / 11 ms",
+          "PERFECT / 20 ms",
+          "PERFECT / 13 ms",
+          "PERFECT / 9 ms",
+          "PERFECT / 10 ms",
+          "PERFECT / 12 ms",
+          "PERFECT / 8 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 4 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 3 ms",
+          "PERFECT / 0 ms",
+          "PERFECT / 2 ms",
+          "PERFECT / 19 ms",
+          "PERFECT / 17 ms",
+          "PERFECT / 18 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 112,
+        "result": "60,000 points • 100.0% • 60 max combo\n56 Perfect / 0 Great / 0 Good / 0 Miss / 4 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 14 ms",
+          "PERFECT / 10 ms",
+          "HOLD",
+          "PERFECT / 2 ms",
+          "PERFECT / 11 ms",
+          "PERFECT / 20 ms",
+          "PERFECT / 13 ms",
+          "PERFECT / 0 ms",
+          "PERFECT / 9 ms",
+          "PERFECT / 19 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 15 ms",
+          "PERFECT / 8 ms",
+          "PERFECT / 17 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 12 ms",
+          "PERFECT / 4 ms",
+          "PERFECT / 21 ms",
+          "PERFECT / 3 ms",
+          "PERFECT / 18 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 60,
+        "result": "30,000 points • 100.0% • 30 max combo\n30 Perfect / 0 Great / 0 Good / 0 Miss / 0 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 2 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 14 ms",
+          "PERFECT / 17 ms",
+          "PERFECT / 8 ms",
+          "PERFECT / 20 ms",
+          "PERFECT / 11 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 1 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 76,
+        "result": "42,000 points • 100.0% • 42 max combo\n38 Perfect / 0 Great / 0 Good / 0 Miss / 4 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 12 ms",
+          "PERFECT / 16 ms",
+          "HOLD",
+          "PERFECT / 3 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 15 ms",
+          "PERFECT / 19 ms",
+          "PERFECT / 10 ms",
+          "PERFECT / 13 ms",
+          "PERFECT / 0 ms",
+          "PERFECT / 9 ms",
+          "PERFECT / 14 ms",
+          "PERFECT / 20 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  },
+  {
+    "result": {
+      "type": "object",
+      "value": {
+        "events": 112,
+        "result": "60,000 points • 100.0% • 60 max combo\n56 Perfect / 0 Great / 0 Good / 0 Miss / 4 Hold / 0 Break",
+        "signals": [
+          "PERFECT / 2 ms",
+          "PERFECT / 10 ms",
+          "HOLD",
+          "PERFECT / 9 ms",
+          "PERFECT / 14 ms",
+          "PERFECT / 18 ms",
+          "PERFECT / 1 ms",
+          "PERFECT / 6 ms",
+          "PERFECT / 5 ms",
+          "PERFECT / 13 ms",
+          "PERFECT / 12 ms",
+          "PERFECT / 17 ms",
+          "PERFECT / 16 ms",
+          "PERFECT / 20 ms",
+          "PERFECT / 8 ms",
+          "PERFECT / 11 ms",
+          "PERFECT / 15 ms",
+          "PERFECT / 3 ms",
+          "PERFECT / 7 ms",
+          "PERFECT / 4 ms"
+        ],
+        "title": "Route complete / S"
+      }
+    }
+  }
+]
