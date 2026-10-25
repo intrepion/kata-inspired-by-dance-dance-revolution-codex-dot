@@ -23,3 +23,7 @@ Arrow keys or D/F/J/K, or press/hold the four pads. Escape pauses. Hold rails th
 Chart input/render/audio share AudioContext.currentTime. The music is generated into a buffer and scheduled with 80 ms startup safety and two seconds of count-in. A stale asynchronous activation cannot overwrite a newer run. Pause reconstructs audio from the stored offset; active holds break on pause. Visibility/focus loss and audio suspension interrupt play. Scheduling avoids JS audio timers, but input, paint and output latency still depend on browser and hardware. ±200 ms manual/median calibration is an estimate. Wired audio is recommended. No physical latency measurement or actual audio listening was performed in automated QA.
 
 Charts require at most two directions at once; keyboard rollover is hardware dependent. A dance pad must emit keyboard arrows; native USB/gamepad protocols are not supported. Pointer capture supports mouse/touch holds and cancels release them; physical touch and dance pads were not tested. Storage-denied mode remains playable with a visible save warning. No runtime network requests, paid services or public deployment.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-inspired-by-dance-dance-revolution-codex-dot/)
