@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "52ef321a62a87a172579f344d397a10f3fc8f624",
+  "sourceCommit": "aed2afdcd30f8a227265a475693e5bddc0ccb55b",
+  "runId": "41414121039",
+  "url": "http://127.0.0.1:4241/",
+  "inputs": {
+    "index.html": "abec5baa5dd8215cc3f4c8aed2137f5ce2462e6212f8e67e1f9858359c87c872",
+    "assets/index-CGXyP8qi.js": "be5d34c2d78fb6a034d84166ab2b001274fda3e849cb35b82a9437f933c47a0b",
+    "assets/index-ChsSss-v.css": "05419e35f05889606d3514dd7e4f70bdaf3446ada0316468f8963433f4832ab1"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "switchyard-01.png",
+    "switchyard-02.png"
+  ]
+}
