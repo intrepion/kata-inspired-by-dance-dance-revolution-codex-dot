@@ -27,3 +27,7 @@ Charts require at most two directions at once; keyboard rollover is hardware dep
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-inspired-by-dance-dance-revolution-codex-dot/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
